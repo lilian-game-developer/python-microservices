@@ -7,3 +7,4 @@ django-mysql
 django-cors-headers
 pika
 configparser
+drf-yasg
